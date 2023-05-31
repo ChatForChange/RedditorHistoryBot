@@ -16,5 +16,5 @@ The bot can be summoned by users through a specific command or by mentioning its
 
 You can reach me at:
 
-- Email: princeofprompting@email.com
+- Email: princeofprompting@gmail.com
 - Reddit Username: ThePrinceofPrompting
